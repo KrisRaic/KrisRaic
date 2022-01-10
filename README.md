@@ -1,0 +1,3 @@
+-I am Kristupas currently a BCs student at the Dutch University of Twente, studying Technical Computer Science, 
+-I am currently interested in blockchain technology well as website/webapp development. 
+-The best way to contact me is my email Kristupas.Raicevicius@gmail.com
